@@ -6,7 +6,6 @@
 - 🔭 &nbsp; I’m currently learning Web Development, JAVA , JS and DSA.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
-@@ -17,7 +18,7 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | Javascript | Java | C++   
