@@ -20,7 +20,10 @@
 <h4 align="center">Top languages</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupur-Khatri&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Languages" height="250" /></p>
 <br><br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nupur-Khatri&show_icons=true&locale=en&theme=radical" alt="Nupur-Khatri" /></p>
+<h2 align="center"> Github Statistics 📈 </h2>
+  
+<div align="center"> 
+  <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=JJ1006&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" /></a></div>
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
 &nbsp; <a href="https://twitter.com/Nupur_Khatri_" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
