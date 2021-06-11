@@ -15,8 +15,11 @@
 - 🐍 &nbsp; Selenium | Scikit-learn | NLTK | Keras | Tkinter | Matplotlib | Hub
 - ☁ &nbsp; Google Cloud Platform | Netlify | Docker
 - 🔧 &nbsp; Github | PyCharm | Visual Studio code | Eclipse | Anaconda | Git
-</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nupur-Khatri&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Nupur-Khatri/github-readme-stats)
+
+<br><br>
+<h4 align="center">Top languages</h4>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nupur-Khatri&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Languages" height="250" /></p>
+<br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nupur-Khatri&show_icons=true&locale=en&theme=radical" alt="Nupur-Khatri" /></p>
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
