@@ -1,5 +1,5 @@
-<h2> Hey Folks! I'm Nupur Khatri. <img src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<h2> Hey Folks! I'm Nupur Khatri.👩‍💻</h2>
+<img align="right" alt="GIF" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" width="500"/>
 <p align="left"> <img   src="https://komarev.com/ghpvc/?username=Nupur-Khatri&color=ff69b4&&style=plastic" alt="adi10hero" /> </p>
 <h3>👩‍💻 About Me </h3>
 
