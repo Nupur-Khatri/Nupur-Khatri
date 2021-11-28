@@ -4,6 +4,7 @@
 <h3>👩‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Web Development, JAVA , JS and DSA.
+- 🔧 &nbsp; Contributing to research in Traffic Managemnent System, Problem Solving in different areas of various fields.
 - 🤔 &nbsp; Exploring newer technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
 <h3>🛠 Tech Stack</h3>
